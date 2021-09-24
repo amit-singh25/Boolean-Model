@@ -1,4 +1,4 @@
-### Boolean approach to signalling pathway modelling in HGF-induced keratinocyte migration
+### [Boolean approach to signalling pathway modelling in HGF-induced keratinocyte migration](https://pubmed.ncbi.nlm.nih.gov/22962472/) 
 Cell migration is a complex process that is controlled
 through the time-sequential feedback regulation of protein signalling
 and gene regulation. Based on prior knowledge and own
@@ -24,6 +24,6 @@ sustain migration by autocrine signalling that is integrated through
 the Focal adhesion kinase protein. We predicted in silico and verified
 in vitro that long-term cell migration is stopped if any of the two
 feedback loops are inhibited.
-Singh, Amit, et al. "Boolean approach to signalling pathway modelling in HGF-induced keratinocyte migration." Bioinformatics 28.18 (2012): i495-i501.
+
 
 Offermann, Barbara,Singh, Amit,  et al. "Boolean modeling reveals the necessity of transcriptional regulation for bistability in PC12 cell differentiation." Frontiers in genetics 7 (2016): 44.
