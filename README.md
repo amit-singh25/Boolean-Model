@@ -9,7 +9,8 @@ Boolean logic to capture the qualitative behaviour as well as short-
 and long-term dynamics of the complex signalling network involved
 in this process, comprising protein signalling, gene regulation and
 autocrine feedback.
-#####Results: A Boolean model has been compiled from time-resolved
+##### Results:
+A Boolean model has been compiled from time-resolved
 transcriptome data and literature mining, incorporating the main
 pathways involved in migration from initial stimulation to phenotype
 progress. Steady-state analysis under different inhibition and
